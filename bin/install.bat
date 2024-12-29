@@ -6,4 +6,6 @@ call .\virtualized\Scripts\activate.bat
 
 pip install -r .\bin\requirements.txt
 
+cmd /k
+
 deactivate

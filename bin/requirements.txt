@@ -1,4 +1,0 @@
-pandas==2.2.2
-plotly==5.24.1
-sqlite4==0.1.1
-pandas-datareader==0.10.0
